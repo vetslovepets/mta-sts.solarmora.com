@@ -1,2 +1,5 @@
-version: STSv1 mode: testing
-mx: vetslovepets.com.au mx: *.vetslovepets.com.au max_age: 604800
+version: STSv1
+mode: testing
+mx: vetslovepets.com.au
+mx: *.vetslovepets.com.au
+max_age: 604800
